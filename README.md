@@ -3,7 +3,8 @@ roman_numbers
 
 Roman Numbers Kata from Ruby Underground
 
-Creators:
-Tom Caspy
-Tom Amel
-Adam Klein
+Creators:<br>
+Tom Caspy<br>
+Tom Amel<br>
+Adam Klein<br>
+
